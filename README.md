@@ -12,9 +12,9 @@
 Hardware | Model
 --- |:--:
 ![processor](https://i.imgur.com/H44zEoW.png) | AMD A10 7th Gen 9620P @3,0Ghz
-![igpu](https://i.imgur.com/7TZmF2e.png)| Radeon R5 512MB VRAM @832Mhz
+![igpu](https://i.imgur.com/7TZmF2e.png)| Radeon R5 512MB VRAM @800Mhz
 ![audio](https://i.imgur.com/SCKuD0b.png) | Conexant CX8050
-![dgpu](https://i.imgur.com/7TZmF2e.png) | (?)
+![dgpu](https://i.imgur.com/7TZmF2e.png) | (Not available)
 ![wlan](https://i.imgur.com/9eDLwo9.png) | Realtek RTL8821AE Dual Band
 Ethernet | Realtek RTL8111
 ---
