@@ -17,7 +17,8 @@ Hardware | Model
 ![dgpu](https://i.imgur.com/7TZmF2e.png) | (Not available)
 ![wlan](https://i.imgur.com/dUwPhAC.png) | Realtek RTL8821AE+Bluetooth 4.0
 Ethernet | Realtek RTL8111
-![ddr4](https://i.imgur.com/g3gLTem.png) | Samsung 8GB CL19@2133Mhz (in-build) + Crucial 8GB CL14@2400Mhz (external) 
+![ddr4](https://i.imgur.com/g3gLTem.png) | Samsung 8GB CL19@2133Mhz (in-build) + Crucial 8GB CL14@2400Mhz (external)
+![ssd](https://i.imgur.com/Jixm0UG.png) | Crucial BX500 SSD 480GB SM2258XT Controller
 ---
 
 <details>
