@@ -11,7 +11,7 @@
 
 Hardware | Model
 --- |:--:
-![processor](https://i.imgur.com/hWNvzxy.png) | AMD A10 7th Gen 9620P @3,0Ghz
+![processor](https://i.imgur.com/H44zEoW.png) | AMD A10 7th Gen 9620P @3,0Ghz
 ![igpu](https://i.imgur.com/ywW6onH.png)| Radeon R5 512MB VRAM @832Mhz
 ![audio](https://i.imgur.com/A7RRuUn.png) | Conexant (?)
 ![dgpu](https://i.imgur.com/1frTIg4.png) | R5 235 (?)
