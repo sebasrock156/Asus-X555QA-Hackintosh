@@ -1,6 +1,6 @@
 # Asus X555QA Hackintosh CLOVER (High Sierra 10.13.3 - 10.13.6)
 
-![progress](https://img.shields.io/badge/progress-not_start-red.svg)
+![progress](https://img.shields.io/badge/Progress-to_fix_old_AMD_OSX-red.svg)
 ![3Dgraphics](https://img.shields.io/badge/3Dgraphics-not_working-red.svg)
 ![periphericals](https://img.shields.io/badge/periphericals-partial_working-orange.svg)
 ![installation](https://img.shields.io/badge/installation-working-green.svg)
