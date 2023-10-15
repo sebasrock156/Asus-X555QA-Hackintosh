@@ -17,7 +17,7 @@ Hardware | Model
 ![dgpu](https://i.imgur.com/7TZmF2e.png) | (Not available)
 ![wlan](https://i.imgur.com/dUwPhAC.png) | Realtek RTL8821AE Dual Band
 Ethernet | Realtek RTL8111
-![ddr4](https://i.imgur.com/g3gLTem.png) | Samsung 8GB CL19 @2133Mhz + Crucial 8GB CL14 @2400Mhz 
+![ddr4](https://i.imgur.com/g3gLTem.png) | Samsung 8GB CL19@2133Mhz (in-build) + Crucial 8GB CL14@2400Mhz (external) 
 ---
 
 <details>
