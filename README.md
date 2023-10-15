@@ -2,7 +2,7 @@
 
 ![progress](https://img.shields.io/badge/Progress-to_fix_old_AMD_OSX-red.svg)
 ![3Dgraphics](https://img.shields.io/badge/3Dgraphics-not_working-red.svg)
-![periphericals](https://img.shields.io/badge/periphericals-partial_working-orange.svg)
+[![periphericals](https://img.shields.io/badge/periphericals-partial_working-orange.svg)](https://github.com/sebasrock156/Asus-X555QA-Hackintosh#works)
 ![installation](https://img.shields.io/badge/installation-working-green.svg)
 
 
