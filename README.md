@@ -104,4 +104,4 @@ Maybe you need a External Keyboard and Mouse for use, and evite use USB 3.0/3.1 
 
 
 ## Misc:
-Some additional drivers and SSDTs are imported from Dell and others i7 5500U EFI Laptops, enable for backlight and some keyboard controls, could be some Fn commands doesn't work correctly, for example the Brightness control.
+This is based on OSX AMD dmg files.
