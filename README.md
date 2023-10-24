@@ -11,7 +11,7 @@
 
 Hardware | Model
 --- |:--:
-![processor](https://i.imgur.com/H44zEoW.png) | AMD A10 7th Gen 9620P, 4 cores/threads @3,0Ghz
+![processor](https://i.imgur.com/H44zEoW.png) | AMD A10 7th Gen 9620P 4 cores/threads @3,0Ghz
 ![igpu](https://i.imgur.com/7TZmF2e.png)| Radeon R5 512MB VRAM @800Mhz (Not supported)
 ![audio](https://i.imgur.com/SCKuD0b.png) | Conexant CX20752
 ![dgpu](https://i.imgur.com/7TZmF2e.png) | (Not available)
