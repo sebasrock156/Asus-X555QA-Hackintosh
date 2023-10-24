@@ -12,10 +12,10 @@
 Hardware | Model
 --- |:--:
 ![processor](https://i.imgur.com/H44zEoW.png) | AMD A10 7th Gen 9620P @3,0Ghz
-![igpu](https://i.imgur.com/7TZmF2e.png)| Radeon R5 512MB VRAM @800Mhz (Not compatible)
+![igpu](https://i.imgur.com/7TZmF2e.png)| Radeon R5 512MB VRAM @800Mhz (Not supported)
 ![audio](https://i.imgur.com/SCKuD0b.png) | Conexant CX20752
 ![dgpu](https://i.imgur.com/7TZmF2e.png) | (Not available)
-![wlan](https://i.imgur.com/dUwPhAC.png) | Realtek RTL8821AE+Bluetooth 4.0 (Not compatible)
+![wlan](https://i.imgur.com/dUwPhAC.png) | Realtek RTL8821AE+Bluetooth 4.0 (Not supported)
 Ethernet | Realtek RTL8111
 ![ddr4](https://i.imgur.com/g3gLTem.png) | Samsung 8GB CL19@2133Mhz (in-build) + Crucial 8GB CL14@2400Mhz (external)
 ![ssd](https://i.imgur.com/Jixm0UG.png) | Crucial BX500 SSD 480GB (TLC SM2258XT Controller)
