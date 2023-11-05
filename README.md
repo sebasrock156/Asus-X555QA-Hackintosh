@@ -15,7 +15,7 @@ Hardware | Model
 ![processor](https://i.imgur.com/H44zEoW.png) | AMD A10 9620P/A12 9700P/FX 9800P, 4 cores/threads@3,0/3,4/3,6Ghz
 ![igpu](https://i.imgur.com/7TZmF2e.png)| Radeon R5 512MB VRAM @800Mhz (Not supported)
 ![audio](https://i.imgur.com/SCKuD0b.png) | Conexant CX20752
-![dgpu](https://i.imgur.com/7TZmF2e.png) | (Not available, if change the MB, might use and R7 patched as a Desktop R9)
+![dgpu](https://i.imgur.com/7TZmF2e.png) | (Not available)
 ![wlan](https://i.imgur.com/dUwPhAC.png) | Realtek RTL8821AE+Bluetooth 4.0 (Not supported)
 Ethernet | Realtek RTL8111
 ![ddr4](https://i.imgur.com/g3gLTem.png) | Samsung 8GB CL22@2133Mhz (in-build) + Crucial 8GB CL19@2400Mhz (external)
@@ -32,7 +32,7 @@ Hardware | Model
 --- |:--:
 RAM | Any Samsung, Hynix or Kingston DDR3 8GB(4GBx2).
 Audio Card | Any Realtek Audio Card (some Broadcom cards may not work).
-WLAN Card | Any Intel network card (A few Realtek cards works externally; Intel supported cards is listed below).
+WLAN Card | Any Intel network card, some Broadcom network cards, and few Qualcomm/Atheros network cards).
 SATA Drive	| Any Solid State Drive (SSD) with 240GB of storage.
 IDE Drive | Add a caddy for SATA Output, then, I recommend any Hard Disk with 500GB/1000GB of storage.
 ---
@@ -70,7 +70,7 @@ Audio Card ❌ (It's partially work via audio jack, but soundspeakers doesn't wo
 
 Hibernate ❌ (It's full broken)
  
-Bluetooth ❌ (It's broken with Realtek, I'll try replace for an Intel Card in future)
+Bluetooth ❌ (It's broken with Realtek and Qualcomm, replace it for an Intel Wireless mini PCI-E card)
 
 Wi-Fi ❌ (It's broken with Realtek I'll try replace for an Intel Card in future)
 
