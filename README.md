@@ -5,6 +5,7 @@
 [![periphericals](https://img.shields.io/badge/periphericals-partial_working-orange.svg)](https://github.com/sebasrock156/Asus-X555QA-Hackintosh#works)
 ![installation](https://img.shields.io/badge/installation-working-green.svg)
 
+![banner](https://i.imgur.com/8QrfTIX.png)
 
 **Let's go with my hardware**:
 ---
