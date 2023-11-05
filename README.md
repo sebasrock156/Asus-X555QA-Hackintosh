@@ -69,11 +69,11 @@ Audio Card ❌ (It's partially work via audio jack, but soundspeakers doesn't wo
 
 Hibernate ❌ (It's full broken)
  
-Bluetooth ❌ (It's broken with Realtek):
+Bluetooth ❌ (It's broken with Realtek, I'll try replace for an Intel Card in future)
 
-Wi-Fi ❌ (It's broken with Realtek):
+Wi-Fi ❌ (It's broken with Realtek I'll try replace for an Intel Card in future)
 
-Card Reader ❌ (ACPI Problems, I'll trying to fix for Monterey release)
+Card Reader ❌ (ACPI Problems, I'll trying to fix for newer releases)
 
 </details>
 
@@ -82,16 +82,18 @@ Card Reader ❌ (ACPI Problems, I'll trying to fix for Monterey release)
 
 **Before to try it**:
 
-Maybe you need a External Keyboard and Mouse for use, and evite use USB 3.0/3.1 for Bootable USB Drive.
+Maybe you need a External Keyboard and Mouse for use, and evite use USB 3.0/3.1 for Bootable USB Drive, if installation boot shows a 🚫 symbol, try putting the USB Pendrive in another USB Port.
 
-1. Using any macOS BigSur Image based on Olarila project and Balena Ecther for doing Booteable USB Drive.
+1. Using any macOS Image based on Olarila project or AMD-OSX and Balena Ecther for doing Booteable USB Drive.
 
 2. If macOS image won't boot, mount Booteable USB Drive ESP (EFI) partition with ESP Mounter Pro or Clover/OpenCore Configurator (MacOS) or MiniTool Partition (Windows) and replace EFI Folder with THIS repo EFI Folder.
 
 3. Boot to USB Drive always with BIOS Secure Boot ENABLED (if you disable Secure Boot, MacOS Preinstalled on Hard Drive/Solid Drive never will boot, stuck on Apple logo). 
 
 ## Post-Installation：
- **WARNING ⚠️** : If you wanna have Dualboot with Windows or Linux, Touchpad may be don't work, OpenCore EFI modify some ACPI values (Advanced Configuration and Power Interface, a.k.a. memory access & Power from BIOS/Chipset to peripherics and motherboard components) and Touchpad (Synaptics or Elantech) crash with these modifies.
+ **WARNING ⚠️** : ACPI values (Advanced Configuration and Power Interface, a.k.a. memory access & Power from BIOS/Chipset to peripherics and motherboard components) could be changed with a macOS installation, if you do want make a Dualboot installation, some hardware periphericals might not work on Windows/Linux/Android.
+
+If you have a ELANTECH Touchpad, this might not work on macOS, Apple kexts (drivers) usually doesn't detect Elantech devices; if you have been modified the BIOS Image (using AMFIBIOS tools), could do that Windows recognise the Touchpad as a SYNAPTICS device (is a bug from BIOS microcode in 320 version), in that case, touchpad might works. 
 
 1. Mount the macOS Drive EFI Partition (with ESP Mounter Pro), later, drag EFI Folder from Booteable USB Drive and reboot.
 
@@ -107,3 +109,4 @@ Maybe you need a External Keyboard and Mouse for use, and evite use USB 3.0/3.1 
 
 ## Misc:
 This is based on OSX AMD dmg files.
+In future, I'll try use Opencore for newer versions.
