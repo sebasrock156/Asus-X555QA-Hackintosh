@@ -14,7 +14,7 @@ Hardware | Model
 ![processor](https://i.imgur.com/H44zEoW.png) | AMD A10 9620P, 4 cores/threads@3,0Ghz
 ![igpu](https://i.imgur.com/7TZmF2e.png)| Radeon R5 512MB VRAM @800Mhz (Not supported)
 ![audio](https://i.imgur.com/SCKuD0b.png) | Conexant CX20752
-![dgpu](https://i.imgur.com/7TZmF2e.png) | (Not available)
+![dgpu](https://i.imgur.com/7TZmF2e.png) | (Not available, if change the MB, might use and R7 patched as a Desktop R9)
 ![wlan](https://i.imgur.com/dUwPhAC.png) | Realtek RTL8821AE+Bluetooth 4.0 (Not supported)
 Ethernet | Realtek RTL8111
 ![ddr4](https://i.imgur.com/g3gLTem.png) | Samsung 8GB CL22@2133Mhz (in-build) + Crucial 8GB CL19@2400Mhz (external)
