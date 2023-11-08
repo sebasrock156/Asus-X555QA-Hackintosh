@@ -1,6 +1,6 @@
 # Asus X555QA/QG/Y Hackintosh (Monterey 12.2-12.6)
 
-![progress](https://img.shields.io/badge/Progress-to_fix_old_AMD_OSX-red.svg)
+![progress](https://img.shields.io/badge/Progress-doesnt_exist_for_now-red.svg)
 ![3Dgraphics](https://img.shields.io/badge/3Dgraphics-not_working-red.svg)
 [![periphericals](https://img.shields.io/badge/periphericals-partial_working-orange.svg)](https://github.com/sebasrock156/Asus-X555QA-Hackintosh#works)
 ![installation](https://img.shields.io/badge/installation-working-green.svg)
