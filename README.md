@@ -19,11 +19,23 @@ This is a "big" project to bring MacOS OSes for these laptops with Clover and Op
 
 ---
 
+**More info of MacOS Catalina:**
+
+[![MacOS Catalina](https://i.imgur.com/s61fRsN.png)](https://github.com/sebasrock156/Asus-X555QA-Hackintosh/tree/Catalina)
+
+**Status:** ❌ In-process 💻
+
+**Notes for future:** Trying this work, based on AMD FX 8xxx model. 
+
+---
+
 **More info of MacOS Big Sur:**
 
 [![MacOS BigSur](https://i.imgur.com/SPRlO8S.png)](https://github.com/sebasrock156/Asus-X555QA-Hackintosh/tree/BigSur)
 
-**Status:** ❌ Next version to port 💻
+**Status:** ❌ In-process 💻
+
+**Notes for future:** If work in Catalina, might work on BigSur, based on AMD FX 8xxx model. 
 
 ---
 
