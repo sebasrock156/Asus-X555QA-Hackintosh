@@ -19,6 +19,24 @@ This is a "big" project to bring MacOS OSes for these laptops with Clover and Op
 
 ---
 
+**More info of MacOS Big Sur:**
+
+[![MacOS BigSur](https://i.imgur.com/SPRlO8S.png)](https://github.com/sebasrock156/Asus-X555QA-Hackintosh/tree/BigSur)
+
+**Status:** ❌ Next version to port 💻
+
+---
+
+**More info of MacOS Monterey:**
+
+[![MacOS Monterey](https://i.imgur.com/yuAgctK.png)](https://github.com/sebasrock156/Asus-X555QA-Hackintosh/tree/Monterey)
+
+**Status:** ❌ Next version to port 💻
+
+
+---
+
+
 **Let's go with my hardware**:
 ---
 
