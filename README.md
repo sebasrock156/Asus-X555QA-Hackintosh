@@ -3,8 +3,8 @@
 ![progress](https://img.shields.io/badge/Progress-doesnt_exist_for_now-red.svg)
 ![3Dgraphics](https://img.shields.io/badge/3Dgraphics-not_working-red.svg)
 [![periphericals](https://img.shields.io/badge/periphericals-partial_working-orange.svg)](https://github.com/sebasrock156/Asus-X555QA-Hackintosh#works)
-![installation](https://img.shields.io/badge/installation-working-green.svg)
-[![Intel OSX](https://img.shields.io/badge/HackintoshIntel-available_here-violet.svg)](https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore)
+![installation](https://img.shields.io/badge/installation-in_process-orange.svg)
+
 
 
 ![banner](https://i.imgur.com/aJ7940P.png)
