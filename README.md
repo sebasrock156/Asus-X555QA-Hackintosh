@@ -1,4 +1,4 @@
-# Asus X555QA/QG/Y Hackintosh (Big Sur 11.2-11.6)
+# Asus X555QA/QG/Y Hackintosh (Catalina 10.15)
 
 ![progress](https://img.shields.io/badge/Progress-doesnt_exist_for_now-red.svg)
 ![3Dgraphics](https://img.shields.io/badge/3Dgraphics-not_working-red.svg)
@@ -6,7 +6,7 @@
 ![installation](https://img.shields.io/badge/installation-in_process-orange.svg)
 
 
-![banner](https://i.imgur.com/BCBwPA1.png)
+![banner](https://i.imgur.com/N0AoFrz.png)
 
 **Let's go with my hardware**:
 ---
