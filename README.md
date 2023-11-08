@@ -1,4 +1,4 @@
-# Asus X555QA/QG/Y Hackintosh (High Sierra 10.13.3 - 10.13.6)
+# Asus X555QA/QG/Y Hackintosh (Big Sur 11.2-11.6)
 
 ![progress](https://img.shields.io/badge/Progress-to_fix_old_AMD_OSX-red.svg)
 ![3Dgraphics](https://img.shields.io/badge/3Dgraphics-not_working-red.svg)
@@ -7,7 +7,7 @@
 [![Intel OSX](https://img.shields.io/badge/HackintoshIntel-available_here-violet.svg)](https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore)
 
 
-![banner](https://i.imgur.com/8QrfTIX.png)
+![banner](https://i.imgur.com/BCBwPA1.png)
 
 **Let's go with my hardware**:
 ---
