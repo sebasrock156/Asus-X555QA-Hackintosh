@@ -7,11 +7,11 @@
 [![Intel OSX](https://img.shields.io/badge/HackintoshIntel-available_here-violet.svg)](https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore)
 
 
-This is a "big" project to bring MacOS OSes for these laptops with Opencore Bootloader, for more information, click on "More info of **MacOS Version** below:
+This is a "big" project to bring MacOS OSes for these laptops with Clover and Opencore (in future) Bootloader, for more information, click on "More info of **MacOS Version** below:
 
 **More info of MacOS High Sierra:**
 
-[![MacOS HighSierra](https://i.imgur.com/SP2LYM8.png)](https://github.com/sebasrock156/Asus-X555QA-Hackintosh/tree/High-Sierra)
+[![MacOS HighSierra](https://i.imgur.com/F8EAMQ1.png)](https://github.com/sebasrock156/Asus-X555QA-Hackintosh/tree/High-Sierra)
 
 **Status:** ✅ Almost finished; if you try with latest macOS 11.x.x versions might work too 💻
 
