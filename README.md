@@ -6,6 +6,7 @@
 ![installation](https://img.shields.io/badge/installation-working-green.svg)
 [![Intel OSX](https://img.shields.io/badge/HackintoshIntel-available_here-violet.svg)](https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore)
 
+
 ![banner](https://i.imgur.com/8QrfTIX.png)
 
 **Let's go with my hardware**:
