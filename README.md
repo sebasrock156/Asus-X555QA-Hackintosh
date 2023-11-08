@@ -11,7 +11,7 @@ This is a "big" project to bring MacOS OSes for these laptops with Clover and Op
 
 **More info of MacOS High Sierra:**
 
-[![MacOS HighSierra](https://i.imgur.com/F8EAMQ1.png)](https://github.com/sebasrock156/Asus-X555QA-Hackintosh/tree/High-Sierra)
+[![MacOS HighSierra](https://i.imgur.com/vuIytqy.png)](https://github.com/sebasrock156/Asus-X555QA-Hackintosh/tree/High-Sierra)
 
 **Status:** ✅ Almost finished; if you try with latest macOS 11.x.x versions might work too 💻
 
