@@ -1,4 +1,4 @@
-# Asus X555QA/QG/Y Hackintosh (High Sierra 10.13.3 - 10.13.6)
+# Asus X555QA/QG/Y Hackintosh
 
 ![progress](https://img.shields.io/badge/Progress-to_fix_old_AMD_OSX-red.svg)
 ![3Dgraphics](https://img.shields.io/badge/3Dgraphics-not_working-red.svg)
