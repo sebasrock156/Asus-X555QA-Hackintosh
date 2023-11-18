@@ -59,7 +59,7 @@ Hardware | Model
 ![wlan](https://i.imgur.com/dUwPhAC.png) | Realtek RTL8821AE+Bluetooth 4.0 (Not supported)
 Ethernet | Realtek RTL8111
 ![ddr4](https://i.imgur.com/g3gLTem.png) | Samsung 8GB CL22@2133Mhz (in-build) + Crucial 8GB CL19@2400Mhz (external)
-![ssd](https://i.imgur.com/Jixm0UG.png) | Crucial BX500 SSD 480GB (TLC SM2258XT Controller)
+![ssd](https://i.imgur.com/Jixm0UG.png) | Crucial BX500 SSD 480GB (TLC SMI2258XT Controller)
 ---
 
 <details>
