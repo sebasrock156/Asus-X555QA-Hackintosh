@@ -2,7 +2,9 @@
 
 ![progress](https://img.shields.io/badge/Progress-Under_development-red.svg)
 ![installation](https://img.shields.io/badge/installation-working-green.svg)
-[![Intel OSX](https://img.shields.io/badge/HackintoshIntel-available_here-violet.svg)](https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore)
+[![Acer OSX](https://img.shields.io/badge/AcerHackintosh-available_here-violet.svg)](https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore)
+[![Huawei OSX](https://img.shields.io/badge/HuaweiHackintosh-available_here-violet.svg)](https://github.com/sebasrock156/Huawei-Matebook-D14-21-OpenCore)
+
 
 
 This is a "big" project to bring MacOS OSes for these laptops with Clover and Opencore (in future) Bootloader, for more information, click on "More info of **MacOS Version** below:
