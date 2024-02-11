@@ -54,7 +54,7 @@ This is a "big" project to bring MacOS OSes for these laptops with Clover and Op
 
 Hardware | Model
 --- |:--:
-![processor](https://i.imgur.com/H44zEoW.png) | AMD A10 9620P 4 cores/threads@3,0Ghz
+![processor](https://i.imgur.com/H44zEoW.png) | AMD A10 (7th Gen) 9620P 4 cores/threads@3,0Ghz
 ![igpu](https://i.imgur.com/7TZmF2e.png)| Radeon R5 512MB VRAM@720Mhz (Not supported)
 ![audio](https://i.imgur.com/SCKuD0b.png) | Conexant CX20752
 ![dgpu](https://i.imgur.com/7TZmF2e.png) | (Not available, try to replace for any MB with some Radeon dGPU)
