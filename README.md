@@ -2,8 +2,9 @@
 
 ![progress](https://img.shields.io/badge/Progress-Under_development-red.svg)
 ![installation](https://img.shields.io/badge/installation-working-green.svg)
-[![Acer OSX](https://img.shields.io/badge/AcerHackintosh-available_here-violet.svg)](https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore)
-[![Huawei OSX](https://img.shields.io/badge/HuaweiHackintosh-available_soon-yellow.svg)](https://github.com/sebasrock156/Huawei-Matebook-D14-21-OpenCore)
+[![EFIAcer OSX](https://img.shields.io/badge/EFIAcerHackintosh-available_here-violet.svg)](https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore)
+[![LegacyAcer OSX](https://img.shields.io/badge/LegacyAcerHackintosh-available_here-violet.svg)](https://github.com/sebasrock156/Acer-Aspire-5749-Hackintosh)
+[![Huawei OSX](https://img.shields.io/badge/HuaweiHackintosh-available_here-violet.svg)](https://github.com/sebasrock156/Huawei-Matebook-D14-21-OpenCore)
 
 
 
