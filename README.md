@@ -54,8 +54,8 @@ This is a "big" project to bring MacOS OSes for these laptops with Clover and Op
 
 Hardware | Model
 --- |:--:
-Motherboard | X555QG-AMD FP4 (by Asus)
-BIOS | American Megatrends (AMI) Aptio V's v318/v320 (by Asus) 
+![motherboard](https://i.imgur.com/kjUKjB2.png) | Asus X555QG-FP4 (Excavator-Bristol Ridge, 15h)
+![bios](https://i.imgur.com/YG5MG5Y.png) | American Megatrends (AMI) Aptio V's v318/v320 (by Asus) 
 ![processor](https://i.imgur.com/H44zEoW.png) | AMD A10 (7th Gen) 9620P 4 cores/threads@3,0Ghz
 ![igpu](https://i.imgur.com/7TZmF2e.png)| Radeon R5 512MB VRAM@720Mhz (Not supported)
 ![audio](https://i.imgur.com/SCKuD0b.png) | Conexant CX20752
